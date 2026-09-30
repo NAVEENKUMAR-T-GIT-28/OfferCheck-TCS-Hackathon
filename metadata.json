@@ -1,0 +1,6 @@
+{
+  "name": "OfferCheck - Internship & Job Offer Scam Analyzer",
+  "description": "Student-focused cybersecurity tool to analyze suspicious job and internship offers, detect payment scams, and verify recruiter authenticity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
